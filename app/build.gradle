@@ -17,7 +17,7 @@ android {
             properties.load(localProperties.newDataInputStream())
         }
 
-        def apikey = properties.getProperty('gmaps.v2.apikey')
+        def apikey = "AIzaSyD7wgFQYgfOFvCwRD37pgUduJNaMUpntfQ"
         // Add your Google Maps v2 API key in local.properties as gmaps.v2.apikey=...
         manifestPlaceholders = [ gmapsV2ApiKey:apikey ]
     }

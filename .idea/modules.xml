@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desktop-SpatiAtlas.iml" filepath="$PROJECT_DIR$/Desktop-SpatiAtlas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpatiAtlas.iml" filepath="$PROJECT_DIR$/SpatiAtlas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/SpatiAtlas-app.iml" filepath="$PROJECT_DIR$/app/SpatiAtlas-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spatiatlas.iml" filepath="$PROJECT_DIR$/spatiatlas.iml" />
     </modules>
   </component>
 </project>

@@ -134,6 +134,8 @@ public class MapFragment extends SupportMapFragment implements
         }
 
         final Bundle params = new Bundle();
+
+
         params.putString(SpatiAtlasContract.Methods.AttachDb.PARAM_FILEPATH, extDbFile.getAbsolutePath());
 
         final ContentResolver cr = getActivity().getContentResolver();
